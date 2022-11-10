@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.container{
+    background-color: yellowgreen;
+    border:dashed 2px black;
+    width: 20rem;
+    height: 20rem;
+}
